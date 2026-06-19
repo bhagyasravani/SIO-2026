@@ -56,6 +56,21 @@ Unordered list
   Greatful[^1]
 
   Sorrowful[^2]
+
+AWS means
+  - [ ] Amaozon web source
+  - [ ] Amazon world services
+  - [X] Amazon web services
+
+  Table 
+
+  |name|clg|dept|
+  |----|----|----|
+  |ram|Raghu|CSE|
+  |----|----|----|
+  |abhi|vvit|IT|
+
+
   
   -----
 
