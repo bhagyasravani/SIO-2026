@@ -17,4 +17,4 @@ Bhagya<sub>B.Tech</sub>
 
 H<sub>2</sub>O
 
-(a+b)<sub>2</sub>=a<sub>2</sub>+b<sub>2</sub>+2ab
+(a+b)<sup>2</sup>=a<sup>2</sup>+b<sup>2</sup>+2ab
