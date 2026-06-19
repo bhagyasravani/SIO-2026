@@ -40,3 +40,33 @@ print(S)
 [Google](https://www.google.com/)
 
 ![Image](https://bkacontent.com/wp-content/uploads/2016/06/Depositphotos_31146757_l-2015.jpg)
+
+Ordered list
+1. First rank
+2. SEcond rank
+3. Third rank
+
+Unordered list
+- syam
+- divya
+- renu
++ milo
++ arsh
+
+  Top
+  
+  -----
+
+Bottom
+
+
+
+
+
+
+
+
+
+
+
+  
