@@ -71,6 +71,13 @@ AWS means
   |abhi|vvit|IT|
 
 
+  :angry:
+  :biking_man:
+  :cupid:
+  :sleeping:
+  :sleepy:
+
+
   
   -----
 
