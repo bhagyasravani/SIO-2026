@@ -43,7 +43,7 @@ print(S)
 
 Ordered list
 1. First rank
-2. SEcond rank
+2. Second rank
 3. Third rank
 
 Unordered list
@@ -53,12 +53,14 @@ Unordered list
 + milo
 + arsh
 
-  Top
+  Greatful[^1]
+
+  Sorrowful[^2]
   
   -----
 
-Bottom
-
+  [^1]: Thankful
+  [^2]: Sadness
 
 
 
